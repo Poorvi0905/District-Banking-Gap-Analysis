@@ -259,6 +259,10 @@ District-Banking-Gap-Analysis/
 │   ├── raw/
 │   └── processed/
 │
+├── images/
+│   ├── page1.png
+│   └── page2.png
+│
 └── PowerBI/
     └── District_Banking_Gap_Analysis.pbix
 ```
