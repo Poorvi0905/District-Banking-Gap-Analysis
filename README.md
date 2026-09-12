@@ -238,10 +238,7 @@ Contains:
 
 * Python
 * Pandas
-* NumPy
-* OpenPyXL
-* RapidFuzz
-* Microsoft Power BI
+* Microsoft Power BI / DAX
 * CSV / Excel datasets
 
 ---
