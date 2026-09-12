@@ -216,6 +216,10 @@ Contains:
 * Top 10 Best-Banked Districts
 * State slicer
 
+#### Dashboard Preview
+
+![Page 1 - Main Dashboard](images/page1.png)
+
 ### Page 2 – District-Level Banking Gap Analysis
 
 Contains:
@@ -225,6 +229,10 @@ Contains:
 * Population vs Banking Outlets scatter chart
 * Districts by Banking Gap Priority
 * District-level analysis table
+
+#### Dashboard Preview
+
+![Page 2 - District-Level Banking Gap Analysis](images/page2.png)
 
 ## 🛠️ Technologies Used
 
