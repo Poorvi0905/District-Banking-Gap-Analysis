@@ -226,12 +226,6 @@ Contains:
 * Districts by Banking Gap Priority
 * District-level analysis table
 
-### Page 3 – Priority Analysis
-
-An optional page focused on high and very high priority districts.
-
----
-
 ## 🛠️ Technologies Used
 
 * Python
